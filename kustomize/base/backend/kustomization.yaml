@@ -1,4 +1,4 @@
-#namespace: timber
+namespace: timber
 
 resources:
   - deployment.yaml
